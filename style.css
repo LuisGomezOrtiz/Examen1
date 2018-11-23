@@ -1,0 +1,114 @@
+header{
+    margin:1px;
+    padding:2px;
+    text-align: center
+}
+.img2{
+width: 35%;
+
+
+}
+
+hr{background-color: grey;
+    width: 100%;
+    
+
+}
+
+.img1{
+float:left;
+width: 70%
+}
+des{
+    text-align: center;
+    color:blue
+}
+
+header {
+    background-color: grey
+    
+    
+}
+
+
+
+pre{
+    color:blue;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+address{
+ text-align: center;
+}
+
+.texto{
+text-align: right;
+}
+iframe{
+    float: center;
+}
+    table{
+        border:black;
+    }
+
+
+ul, ol {
+    list-style:none;
+    overflow: hidden;
+    
+}
+
+
+.nav li ul li ul {
+    right:-140px;
+    top:0px;
+}
+
+.nav > li {
+    float:left;
+}
+
+footer {
+    background-color: grey;
+    font-family: Arial, Helvetica, sans-serif,
+    text-align center;
+    font-size: 100%;
+}
+
+
+.nav li a:hover {
+    background-color: green;
+}
+
+.nav li ul {
+    display:none;
+    position:absolute;
+    min-width:140px;
+    font-size:80%;
+    font-weight: 100;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.nav li:hover > ul {
+    display:block;
+}
+
+.nav li ul li {
+    position:relative;
+}
+
+.nav li a {
+    background-color:grey;
+    color:rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    text-decoration:none;
+    padding:1px 40px;
+    display:block;
+}
+
+img {
+text-align: center
+
+}
